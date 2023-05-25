@@ -998,7 +998,15 @@ color:#66fcf1;
 }
 
 
-
+#footter-one{
+    background-color: #000 !important;
+    padding: 20px 10px !important;
+}
+#footter-one a{
+    color:#66fcf1;
+    text-decoration: none;
+    text-align: center;
+}
 @media screen and (max-width:990px) {
     .s-none{
         display: none;
